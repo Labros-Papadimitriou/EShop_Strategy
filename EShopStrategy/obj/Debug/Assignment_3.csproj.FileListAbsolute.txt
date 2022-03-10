@@ -1,0 +1,8 @@
+G:\Bootcamp\LabrosPapadimitriou_Assignment_3\Assignment_3\bin\Debug\Assignment_3.exe.config
+G:\Bootcamp\LabrosPapadimitriou_Assignment_3\Assignment_3\bin\Debug\Assignment_3.exe
+G:\Bootcamp\LabrosPapadimitriou_Assignment_3\Assignment_3\bin\Debug\Assignment_3.pdb
+G:\Bootcamp\LabrosPapadimitriou_Assignment_3\Assignment_3\obj\Debug\Assignment_3.csproj.AssemblyReference.cache
+G:\Bootcamp\LabrosPapadimitriou_Assignment_3\Assignment_3\obj\Debug\Assignment_3.csproj.SuggestedBindingRedirects.cache
+G:\Bootcamp\LabrosPapadimitriou_Assignment_3\Assignment_3\obj\Debug\Assignment_3.csproj.CoreCompileInputs.cache
+G:\Bootcamp\LabrosPapadimitriou_Assignment_3\Assignment_3\obj\Debug\Assignment_3.exe
+G:\Bootcamp\LabrosPapadimitriou_Assignment_3\Assignment_3\obj\Debug\Assignment_3.pdb
